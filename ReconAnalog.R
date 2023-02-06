@@ -1,7 +1,7 @@
 ################################################################################
 #
 # ReconAnalog.R
-# Runoff reconstruction by analog and non-analog methods, all two-stage
+# Runoff reconstruction by analog and non-analog methods, all is two-stage
 # D Meko
 # Last revised 2022-12-15
 #
